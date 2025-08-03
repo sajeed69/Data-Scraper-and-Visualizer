@@ -2,8 +2,12 @@
 
 import os
 from openai import OpenAI
+from dotenv import load_dotenv
 
-client = OpenAI(api_key="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")
+load_dotenv()  # loads variables from .env into environment
+api_key = os.getenv("OPENAI_API_KEY")
+
+client = OpenAI(api_key=api_key)
 
 def get_insight(summary_text):
     prompt = f"Based on the following text, provide insights and a short summary:\n\n{summary_text}"
