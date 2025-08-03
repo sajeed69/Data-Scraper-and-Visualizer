@@ -13,6 +13,10 @@
 - Simple **Streamlit-based web interface** for easy interaction.
 
 ---
+<img width="957" height="433" alt="data_scraper-1" src="https://github.com/user-attachments/assets/1df80dad-442e-46bf-a6d7-8119bd0c1f19" />
+<img width="959" height="321" alt="data_scraper-2" src="https://github.com/user-attachments/assets/e4f92440-75ac-4c7e-b573-f0ade9af5ad3" />
+<img width="959" height="434" alt="data_scraper-4" src="https://github.com/user-attachments/assets/6521ec84-6ad4-4c01-b0fe-7dc3a901688a" />
+<img width="938" height="373" alt="data_scraper-3" src="https://github.com/user-attachments/assets/c3bb2439-cadc-4dc0-9815-d493698c5137" />
 
 ## Getting Started
 
